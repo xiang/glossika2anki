@@ -1,7 +1,9 @@
 # glossika2anki
 
-solution:  
-  
+only works for glossika pdfs, obviously
+
+the solution:
+
 convert pdf pages to png with ghostscript. could probably use a gem  
 use gimp and grids to determine good height for rows  
 chop image into rows, ignore rows without text, add a bit of blur, OCR each row and remove newlines  
@@ -11,4 +13,4 @@ could probably do this in the script. maybe later
   
 then use mp3splt to chop audio. delete filler. if there aren't exactly 2000 files, adjust -p shots  
 move to collections.media folder  
-winning  
+voila  
