@@ -14,3 +14,5 @@ could probably do this in the script. maybe later
 then use mp3splt to chop audio. delete filler. if there aren't exactly 2000 files, adjust -p shots  
 move to collections.media folder  
 voila  
+
+test
